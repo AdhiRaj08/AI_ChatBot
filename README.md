@@ -16,7 +16,7 @@ This project is an AI-powered chatbot that leverages Retrieval-Augmented Generat
 - Install dependencies:
 ``` pip install -r requirements.txt```
 - Load PDF Document: Place your PDF files in the file_path variable in app.py. The application will process these PDFs for retrieval purposes.
-- Start the Flask development server:```python main.py```
+- Start the Flask development server:```python chatbot.py```
 - Start the ReactJS server:```npm start```
 
 Here's a video demonstration of our project:
